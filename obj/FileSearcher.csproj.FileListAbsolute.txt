@@ -1,0 +1,11 @@
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearchWrapper.dll
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearchWrapper.pdb
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.FileTypes.resources
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.MainForm.resources
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Steven\Documents\Visual Studio 2005\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
